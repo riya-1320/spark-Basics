@@ -1,0 +1,1 @@
+Fundamental data structure of spark Collection of immutable distributed collection of object Ways to create RDD Parallelized Collection: RDD is created by calling spark context parallelize method. External Dataset: RDD can be created using spark context's "textfile" method. Operations on RDD Transformation, Action
